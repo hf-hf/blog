@@ -258,8 +258,8 @@ disqusjs:
 # livere(來必力)
 # https://www.livere.com/
 livere:
-  enable: true
-  uid: MTAyMC8zMzEyNC85Njgz
+  enable: false
+  uid: 
 
 # gitalk
 # https://github.com/gitalk/gitalk
@@ -280,13 +280,13 @@ gitalk:
 # valine
 # https://valine.js.org
 valine:
-  enable: false # if you want use valine,please set this value is true
-  appId: # leancloud application app id
-  appKey: # leancloud application app key
+  enable: true # if you want use valine,please set this value is true
+  appId: FbdjjSByqhjHC2t0f5DiTzXi-gzGzoHsz # leancloud application app id
+  appKey: EhyT8E3CKzF9CQcem5hx7ftx # leancloud application app key
   pageSize: 10 # comment list page size
   avatar: monsterid # gravatar style https://valine.js.org/#/avatar
   lang: en # i18n: zh-CN/zh-TW/en/ja
-  placeholder: Please leave your footprints # valine comment input placeholder(like: Please leave your footprints )
+  placeholder: 记得留下你的昵称和邮箱...可以快速收到回复 # valine comment input placeholder(like: Please leave your footprints )
   guest_info: nick,mail,link #valine comment header info (nick/mail/link)
   recordIP: false # Record reviewer IP
   serverURLs: # This configuration is suitable for domestic custom domain name users, overseas version will be automatically detected (no need to manually fill in)
