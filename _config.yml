@@ -14,7 +14,7 @@ timezone: ''
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 #url: http://yoursite.com
-url: http://hunfan.top/
+url: https://hunfan.top/
 root: /
 #permalink: :year/:month/:day/:title/
 permalink: posts/:abbrlink/
@@ -137,6 +137,13 @@ sitemap:
     path: sitemap.xml
 baidusitemap:
     path: baidusitemap.xml
+
+# Baidu auto submit
+baidu_url_submit:
+    count: 3 
+    host: hunfan.top 
+    token: cQOgd9p3yXltTzQn
+    path: baidu_urls.txt
 
 feed:
   type: atom
