@@ -10,12 +10,12 @@ menu:
   首页: / || fas fa-home
   时间轴: /archives/ || fas fa-archive
   标签: /tags/ || fas fa-tags
-  分类: /categories/ || fas fa-folder-open
+  #分类: /categories/ || fas fa-folder-open
   # 清单||fas fa-list:
   #   - Music || /music/ || fas fa-music
   #   - Movie || /movies/ || fas fa-video
   #友链: /link/ || fas fa-link
-  关于: /about/ || fas fa-heart
+  #关于: /about/ || fas fa-heart
 
 # Code Blocks (代碼相關)
 # --------------------------------------
@@ -96,7 +96,7 @@ avatar:
 index_img:
 
 # if the banner of page not setting,it will show the top_img
-default_top_img: http://h1.ioliu.cn/bing/UncompahgreForest_ZH-CN6161020948_1920x1080.jpg?imageslim
+default_top_img: /images/UncompahgreForest_ZH-CN6161020948_1920x1080.jpg
 
 # the banner image of archive page
 archive_img:
@@ -579,8 +579,8 @@ aside:
     enable: true
     description:
   card_announcement:
-    enable: false
-    content: This is my Blog
+    enable: true
+    content: 我的博客主题已更换为butterfly^^
   card_recent_post:
     enable: true
     limit: 5 # if set 0 will show all
