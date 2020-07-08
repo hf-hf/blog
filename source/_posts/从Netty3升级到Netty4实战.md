@@ -1,12 +1,12 @@
 ---
 title: 从Netty3升级到Netty4实战
-date: 2018-10-12 18:11:32
 tags:
-    - netty
+  - netty
+cover: /upload/homePage/20181017164401.jpg
+abbrlink: 83e0f55e
+categories: uncategorized
+date: 2018-10-12 18:11:32
 ---
-![homePage](/upload/homePage/20181017164401.jpg)
-<!--more-->
-
 ## 情景
 原来有一版程序，使用的Netty版本是3.7.0Final，最近正好要修改，就顺带把Netty版本升级一下，目标版本4.0.36.Final。
 

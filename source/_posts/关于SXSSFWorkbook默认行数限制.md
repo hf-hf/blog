@@ -1,12 +1,12 @@
 ---
 title: 关于SXSSFWorkbook默认行数限制
-date: 2018-10-12 18:13:21
 tags:
-    - poi
+  - poi
+cover: /upload/homePage/20181017164430.jpg
+abbrlink: 2d5a085d
+categories: uncategorized
+date: 2018-10-12 18:13:21
 ---
-![homePage](/upload/homePage/20181017164430.jpg)
-<!--more-->
-
 在使用SXSSFWorkbook时需要注意，若不指定rowAccessWindowSize，则默认窗体大小仅有100行，详情见源码。
 
 ```

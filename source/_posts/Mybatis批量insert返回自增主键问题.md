@@ -1,11 +1,12 @@
 ---
 title: Mybatis批量insert返回自增主键问题
-date: 2019-01-04 11:11:23
 tags:
+  - mybatis
+cover: /upload/homePage/20190104095505.jpg
+abbrlink: 28fdf399
+categories: uncategorized
+date: 2019-01-04 11:11:23
 ---
-![homePage](/upload/homePage/20190104095505.jpg)
-<!--more-->
-
 ## 背景
 Mybatis3.3.1及其之后的版本支持批量插入返回自增主键ID，在3.3.1之前的版本该功能存在bug，相关问题在此链接上有详细解释：[Mybatis之foreach批量insert，返回主键id列表（修复Mybatis返回null的bug）](https://my.oschina.net/zudajun/blog/674946)。
 

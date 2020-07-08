@@ -1,14 +1,14 @@
 ---
 title: 阿里云域名配置免费证书Let's Encrypt(certbot)问题
-date: 2018-11-16 14:55:31
 tags:
-    - linux
-    - cerbot
-    - 阿里云
+  - linux
+  - cerbot
+  - 阿里云
+cover: /upload/homePage/20181116153002.jpg
+abbrlink: cbdb9b90
+categories: uncategorized
+date: 2018-11-16 14:55:31
 ---
-![homePage](/upload/homePage/20181116153002.jpg)
-<!--more-->
-
 ## 情景
 今天使用阿里云域名通过Let's Encrypt(certbot)申请ssl证书，参照[cerbot官网](https://certbot.eff.org/lets-encrypt/centos6-nginx)中的步骤，报出如下信息：
 

@@ -1,14 +1,14 @@
 ---
 title: 分享Idea Maven Helper插件，快捷解决依赖冲突问题
-date: 2019-01-04 11:14:45
 tags:
-    - Idea
-    - Maven
-    - Maven Helper
+  - Idea
+  - Maven
+  - Maven Helper
+cover: /upload/homePage/20190104095504.jpg
+abbrlink: 6f949d69
+categories: uncategorized
+date: 2019-01-04 11:14:45
 ---
-![homePage](/upload/homePage/20190104095504.jpg)
-<!--more-->
-
 ## 情景
 在修改一些旧Maven项目时，我们引入新的依赖，有时候会提示冲突，Maven Helper能够快捷的帮我们找到相同依赖包所有引用的版本，能够有效的解决依赖冲突、减少重复性的引用。
 

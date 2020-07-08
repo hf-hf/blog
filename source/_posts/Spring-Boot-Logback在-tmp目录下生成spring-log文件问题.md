@@ -1,13 +1,12 @@
 ---
 title: Spring Boot Logback在/tmp目录下生成spring.log文件问题
-date: 2018-11-10 21:13:47
 tags:
-    - Spring Boot
-categories: 运维日志
+  - Spring Boot
+categories: uncategorized
+cover: /upload/homePage/20181110231002.jpg
+abbrlink: '151301e1'
+date: 2018-11-10 21:13:47
 ---
-![homePage](/upload/homePage/20181110231002.jpg)
-<!--more-->
-
 ## 情景
 在服务器/tmp目录会生成spring.log文件，占用系统磁盘资源，手动删除后因程序仍占用该文件，必须重启服务后这部分空间才会得到释放，spring.log文件中的内容为相应Spring Boot服务的debug日志。
 

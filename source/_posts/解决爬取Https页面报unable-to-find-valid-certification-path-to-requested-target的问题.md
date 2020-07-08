@@ -1,13 +1,14 @@
 ---
 title: 解决爬取Https页面报unable to find valid certification path to requested target的问题
-date: 2020-06-28 10:53:51
+cover: /upload/homePage/20200628154000.jpg
 tags:
-    - https
-    - 证书
+  - https
+  - 证书
+description: 最近调试爬虫程序，对ershcimi进行爬取时报错，堆栈信息如下：
+abbrlink: 98e85ae5
+categories: uncategorized
+date: 2020-06-28 10:53:51
 ---
-![homePage](/upload/homePage/20200628154000.jpg)
-<!--more-->
-
 ## 情景
 最近调试爬虫程序，对[ershcimi](https://www.ershicimi.com/)进行爬取时报错，堆栈信息如下：
 

@@ -1,8 +1,10 @@
 ---
 title: Vue调试原始代码
-date: 2018-08-29 10:56:52
 tags:
-    - vue
+  - vue
+abbrlink: 7109e2b4
+categories: uncategorized
+date: 2018-08-29 10:56:52
 ---
 
 ## 情景

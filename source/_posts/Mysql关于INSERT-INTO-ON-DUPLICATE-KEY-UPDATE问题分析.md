@@ -1,13 +1,12 @@
 ---
 title: Mysql关于INSERT INTO...ON DUPLICATE KEY UPDATE问题分析
-date: 2019-01-04 09:41:39
 tags:
-    - Mysql
-categories: 运维日志
+  - Mysql
+categories: uncategorized
+cover: /upload/homePage/20190104095502.jpg
+abbrlink: f712a5dd
+date: 2019-01-04 09:41:39
 ---
-![homePage](/upload/homePage/20190104095502.jpg)
-<!--more-->
-
 ## 情景
 元旦假期期间，公司Mysql某张大增量表，该表创建了3个字段的UNIQUE索引，并且为自增长主键，主键增长到int上限2147483647时，无法再插入新数据行，而在使用该表的业务代码中，通过`INSERT INTO...ON DUPLICATE KEY UPDATE`实现记录不存在时，插入该记录，存在则更新，但在主键到达上限这一情景下，程序没有报错，系统会反复更新最后一条数据（id为2147483647）。
 

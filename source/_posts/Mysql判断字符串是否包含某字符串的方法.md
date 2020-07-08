@@ -1,12 +1,12 @@
 ---
 title: Mysql判断字符串是否包含某字符串的方法
-date: 2018-11-05 13:58:03
 tags:
-    - Mysql
+  - Mysql
+cover: /upload/homePage/20181105161103.jpg
+abbrlink: f29ce59c
+categories: uncategorized
+date: 2018-11-05 13:58:03
 ---
-![homePage](/upload/homePage/20181105161103.jpg)
-<!--more-->
-
 ## 情景
 Mysql下需要根据数据库某字段是否包含某字符串/字符来进行筛选，将包含该字符串/字符的数据展示出来。
 

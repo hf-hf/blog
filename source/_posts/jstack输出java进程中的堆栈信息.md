@@ -1,8 +1,10 @@
 ---
 title: jstack输出java进程中的堆栈信息
-date: 2018-07-20 17:34:15
 tags:
-    - jstack
+  - jstack
+abbrlink: ffa80c98
+categories: uncategorized
+date: 2018-07-20 17:34:15
 ---
 
 ## jstack输出java进程中的堆栈信息

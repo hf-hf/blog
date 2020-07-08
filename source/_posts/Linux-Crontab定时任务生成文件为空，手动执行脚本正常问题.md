@@ -1,13 +1,12 @@
 ---
 title: Linux Crontab定时任务生成文件为空，手动执行脚本正常问题
-date: 2018-11-16 11:50:30
 tags:
-    - linux
-categories: 运维日志
+  - linux
+categories: uncategorized
+cover: /upload/homePage/20181116140902.jpg
+abbrlink: b1908098
+date: 2018-11-16 11:50:30
 ---
-
-![homePage](/upload/homePage/20181116140902.jpg)
-<!--more-->
 ## 情景
 双十一新购入了一台云服务器，将原先服务器上的Mysql迁移了过来，在配置定时备份脚本时，发现手动执行脚本正常，但是通过Crontab定时运行，能够生成文件但是内容为空。
 

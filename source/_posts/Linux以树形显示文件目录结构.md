@@ -1,13 +1,12 @@
 ---
 title: Linux以树形显示文件目录结构
-date: 2018-11-07 11:21:50
 tags:
-    - linux
-categories: 运维日志
+  - linux
+categories: uncategorized
+cover: /upload/homePage/20181107114302.jpg
+abbrlink: aa32d633
+date: 2018-11-07 11:21:50
 ---
-![homePage](/upload/homePage/20181107114302.jpg)
-<!--more-->
-
 ## 情景
 编写部署文档需要添加发布目录层级结构。
 

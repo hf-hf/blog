@@ -1,12 +1,12 @@
 ---
 title: Nginx编译安装添加http_ssl_module模块
-date: 2018-11-16 14:12:20
 tags:
-    - nginx
+  - nginx
+cover: /upload/homePage/20181116144902.jpg
+abbrlink: 2192ed56
+categories: uncategorized
+date: 2018-11-16 14:12:20
 ---
-![homePage](/upload/homePage/20181116144902.jpg)
-<!--more-->
-
 ## 情景
 今天给服务器nginx开启ssl时，发现配置文件添加ssl后提示如下信息：
 

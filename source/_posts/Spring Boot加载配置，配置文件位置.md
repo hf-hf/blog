@@ -1,8 +1,10 @@
 ---
 title: Spring Boot加载配置，配置文件位置
-date: 2018-08-29 10:19:19
 tags:
-    - Spring Boot
+  - Spring Boot
+abbrlink: e0cc441c
+categories: uncategorized
+date: 2018-08-29 10:19:19
 ---
 
 ## 情景

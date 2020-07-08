@@ -1,15 +1,13 @@
 ---
 title: MQTT Eclipse paho订阅和发布
-date: 2019-03-26 09:14:46
 tags:
-    - mqtt
-    - eclipse paho
-categories:
-    - mqtt
+  - mqtt
+  - eclipse paho
+categories: uncategorized
+cover: /upload/homePage/20190326091707.jpg
+abbrlink: 8f34f883
+date: 2019-03-26 09:14:46
 ---
-![homePage](/upload/homePage/20190326091707.jpg)
-<!--more-->
-
 ## 简介
 MQTT(Message Queuing Telemetry Transport，是一种基于发布/订阅（publish/subscribe）模式的"轻量级"通讯协议，该协议构建于TCP/IP协议上，由IBM在1999年发布。MQTT最大优点在于，可以以极少的代码和有限的带宽，为连接远程设备提供实时可靠的消息服务。作为一种低开销、低带宽占用的即时通讯协议，使其在物联网、小型设备、移动应用等方面有较广泛的应用。
 

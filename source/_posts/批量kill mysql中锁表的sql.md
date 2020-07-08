@@ -1,9 +1,10 @@
 ---
 title: 批量kill mysql中锁表的sql
-date: 2018-08-29 10:39:45
 tags:
-    - mysql
-categories: 运维日志
+  - mysql
+categories: uncategorized
+abbrlink: f48253a4
+date: 2018-08-29 10:39:45
 ---
 
 ## 情景

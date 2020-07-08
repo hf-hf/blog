@@ -1,10 +1,11 @@
 ---
 title: 使用logrotate对nginx日志按天进行分割
-date: 2018-05-17 11:04:43
 tags:
-    - logrotate
-    - nginx
-categories: 运维日志
+  - logrotate
+  - nginx
+categories: uncategorized
+abbrlink: c99192e4
+date: 2018-05-17 11:04:43
 ---
 
 ## 情景

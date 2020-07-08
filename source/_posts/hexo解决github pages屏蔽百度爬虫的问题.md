@@ -1,15 +1,12 @@
 ---
 title: hexo解决github pages屏蔽百度爬虫的问题
-date: 2018-09-11 09:47:18
 tags:
-    - hexo
-categories: 
-	- hexo
+  - hexo
+categories: uncategorized
+cover: /upload/homePage/20180911104701.jpg
+abbrlink: cab2569f
+date: 2018-09-11 09:47:18
 ---
-
-![homePage](/upload/homePage/20180911104701.jpg)
-<!--more-->
-
 ## 情景
 hexo博客提交百度收录，在百度站长工具中提示如下信息：
 

@@ -1,12 +1,12 @@
 ---
 title: Git配置ssh同时支持github、gitlab、coding.net免密
-date: 2018-11-05 14:30:52
 tags:
-    - git
+  - git
+cover: /upload/homePage/20181105161104.jpg
+abbrlink: f34927ee
+categories: uncategorized
+date: 2018-11-05 14:30:52
 ---
-![homePage](/upload/homePage/20181105161104.jpg)
-<!--more-->
-
 ## 情景
 实际工作中，我们经常会使用Github、Gitlab或者Coding.net其中的一种或多种，像我在开发中就同时使用了这三者，其中Github是个人的，Gitlab是公司内网服务器搭建的、Coding.net是为了解决Github屏蔽百度爬虫与其同步提交的，因此需要同时给这三者都配置ssh免密。
 

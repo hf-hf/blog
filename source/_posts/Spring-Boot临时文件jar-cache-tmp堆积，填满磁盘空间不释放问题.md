@@ -1,13 +1,12 @@
 ---
 title: Spring Boot临时文件jar_cache.tmp堆积，填满磁盘空间不释放问题
-date: 2018-09-07 11:41:50
 tags:
-    - Spring Boot
-categories: 运维日志
+  - Spring Boot
+categories: uncategorized
+cover: /upload/homePage/20180907140001.jpg
+abbrlink: 79b9747c
+date: 2018-09-07 11:41:50
 ---
-![homePage](/upload/homePage/20180907140001.jpg)
-<!--more-->
-
 ## 情景
 前段时间发现的Spring Boot在/tmp目录下有生成很多的jar_cache.tmp临时文件，使用lsof查询发现更多的临时文件已经被删除，但是仍然占据磁盘空间不释放，导致服务器磁盘被填满。
 

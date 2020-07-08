@@ -1,16 +1,14 @@
 ---
 title: Spring Cloud Feign调用远端ModelAttribute接口问题解决
-date: 2018-09-25 15:20:00
 tags:
-    - Spring Cloud
-    - Feign
+  - Spring Cloud
+  - Feign
+cover: /upload/homePage/20180925152201.jpg
+abbrlink: 4ead8d91
+categories: uncategorized
+date: 2018-09-25 15:20:00
 ---
-
-![homePage](/upload/homePage/20180925152201.jpg)
-<!--more-->
-
 ## 情景
-
 公司有个项目从SpringMVC往Spring Cloud演进，原来有部分接口请求方式为Get，使用@ModelAttribute接收请求参数。
 
 SpringMVC远端接口：

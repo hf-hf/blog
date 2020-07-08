@@ -1,12 +1,12 @@
 ---
 title: Mysql关于blob数据类型使用mysqldump导出乱码问题解决
-date: 2020-06-11 09:17:10
 tags:
-    - Mysql
-categories: 运维日志
+  - Mysql
+categories: uncategorized
+cover: /upload/homePage/20200611092200.jpg
+abbrlink: c15a9847
+date: 2020-06-11 09:17:10
 ---
-![homePage](/upload/homePage/20200611092200.jpg)
-<!--more-->
 
 ## 情景
 最近查看服务器上的Mysql自动备份，发现关于blob数据类型使用mysqldump导出有乱码的情况，命令如下：

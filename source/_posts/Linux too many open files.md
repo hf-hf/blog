@@ -1,10 +1,11 @@
 ---
 title: Linux too many open files问题调查
-date: 2018-06-05 14:38:14
 tags:
-    - linux
-    - too many open files
-categories: 运维日志
+  - linux
+  - too many open files
+categories: uncategorized
+abbrlink: '59149738'
+date: 2018-06-05 14:38:14
 ---
 
 ## 问题

@@ -1,14 +1,14 @@
 ---
 title: Spring Boot HttpMessageConvert使用fastjson替换jackson导致Feign调用异常问题解决
-date: 2019-01-04 14:43:49
 tags:
-    - Spring Boot
-    - fastjson
-    - Feign
+  - Spring Boot
+  - fastjson
+  - Feign
+cover: /upload/homePage/20190104095506.jpg
+abbrlink: 613bac33
+categories: uncategorized
+date: 2019-01-04 14:43:49
 ---
-![homePage](/upload/homePage/20190104095506.jpg)
-<!--more-->
-
 ## 情景
 SpringBoot项目中使用fastjson替换了原jackson的HttpMessageConverter，并配置了序列化的策略，代码如下：
 ```

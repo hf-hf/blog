@@ -1,12 +1,12 @@
 ---
 title: Linux查询占用文件的进程
-date: 2018-09-06 15:52:41
 tags:
-    - linux
-categories: 运维日志
+  - linux
+categories: uncategorized
+cover: /upload/homePage/20180906170335.jpg
+abbrlink: c4cf9967
+date: 2018-09-06 15:52:41
 ---
-![homePage](/upload/homePage/20180906170335.jpg)
-<!--more-->
 ## 情景
 今天查看某服务器/tmp目录下生成了很多spring.log文件，占用了很多磁盘空间，清理前需要调查下是那些程序生成并写入的这些文件，见下图。
 ![Linux查询占用文件的进程_1](/upload/Linux查询占用文件的进程/Linux查询占用文件的进程_1.png)

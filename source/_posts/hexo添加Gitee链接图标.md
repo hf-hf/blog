@@ -1,15 +1,14 @@
 ---
 title: hexo添加Gitee链接图标
-date: 2019-03-25 10:30:54
 tags:
-    - hexo
-    - gitee
-categories: 
-	- hexo
+  - hexo
+  - gitee
+categories: uncategorized
+cover: /upload/homePage/20190325103507.jpg
+sticky: 1
+abbrlink: 59ee5686
+date: 2019-03-25 10:30:54
 ---
-![homePage](/upload/homePage/20190325103507.jpg)
-<!--more-->
-
 ## 主题配置
 修改themes\next\\_config.yml，添加如下数据：
 ```

@@ -1,9 +1,11 @@
 ---
 title: 避免IDE格式化
-date: 2018-06-08 15:59:40
 tags:
-    - IDE
-    - formatter
+  - IDE
+  - formatter
+abbrlink: a7bed227
+categories: uncategorized
+date: 2018-06-08 15:59:40
 ---
 
 ## 避免IDE格式化

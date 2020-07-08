@@ -1,9 +1,11 @@
 ---
 title: svn-relocate
+tags:
+  - svn
+  - relocate
+abbrlink: c7a45621
+categories: uncategorized
 date: 2018-02-19 20:13:57
-tags: 
-    - svn
-    - relocate
 ---
     
 ### TortoiseSvn-relocate

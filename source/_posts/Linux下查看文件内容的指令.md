@@ -1,9 +1,10 @@
 ---
 title: Linux下查看文件内容的指令
-date: 2018-06-21 16:58:53
 tags:
-    - linux
-categories: 运维日志
+  - linux
+categories: uncategorized
+abbrlink: 37bc6184
+date: 2018-06-21 16:58:53
 ---
 
 ## Linux下查看文件内容的命令

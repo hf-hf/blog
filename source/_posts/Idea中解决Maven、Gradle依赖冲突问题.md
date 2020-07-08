@@ -1,14 +1,14 @@
 ---
 title: Idea中解决Maven、Gradle依赖冲突问题
-date: 2018-10-17 15:47:46
 tags:
-    - idea
-    - maven
-    - gradle
+  - idea
+  - maven
+  - gradle
+cover: /upload/homePage/20181017164415.jpg
+abbrlink: ef7fe722
+categories: uncategorized
+date: 2018-10-17 15:47:46
 ---
-![homePage](/upload/homePage/20181017164415.jpg)
-<!--more-->
-
 ## 情景
 今天迁移项目，代码都迁移完了，最后启动时报如下错误：
 

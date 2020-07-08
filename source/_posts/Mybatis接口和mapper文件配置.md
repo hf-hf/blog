@@ -1,8 +1,10 @@
 ---
 title: Mybatis接口和mapper文件配置
-date: 2018-07-17 16:14:57
 tags:
-    - mybatis
+  - mybatis
+abbrlink: 91f27588
+categories: uncategorized
+date: 2018-07-17 16:14:57
 ---
 
 ### 配置说明

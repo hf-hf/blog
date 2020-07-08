@@ -1,11 +1,11 @@
 ---
 title: 记一次完整的hexo + next添加搜索
-date: 2018-01-11 18:25:09
 tags:
-    - hexo
-    - algolia
-categories: 
-	- hexo
+  - hexo
+  - algolia
+categories: uncategorized
+abbrlink: 803dad34
+date: 2018-01-11 18:25:09
 ---
 
 ## 确认主题版本

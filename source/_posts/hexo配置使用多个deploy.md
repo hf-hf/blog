@@ -1,11 +1,11 @@
 ---
 title: hexo配置使用多个deploy
-date: 2018-07-14 13:53:15
 tags:
-    - hexo
-    - deploy
-categories: 
-	- hexo
+  - hexo
+  - deploy
+categories: uncategorized
+abbrlink: 7149d9cc
+date: 2018-07-14 13:53:15
 ---
 
 ## hexo配置使用多个deploy

@@ -1,13 +1,12 @@
 ---
 title: Nginx配置忽略找不到favicon.ico文件的错误日志
-date: 2018-11-08 13:52:03
 tags:
-    - nginx
-categories: 运维日志
+  - nginx
+categories: uncategorized
+cover: /upload/homePage/20181108142102.jpg
+abbrlink: d76d92
+date: 2018-11-08 13:52:03
 ---
-![homePage](/upload/homePage/20181108142102.jpg)
-<!--more-->
-
 ## 情景
 今天排查某服务请求问题，发现nginx error日志中重复输出了很多如下信息：
 

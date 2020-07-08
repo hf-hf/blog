@@ -1,14 +1,14 @@
 ---
 title: Linux Centos7下安装node
-date: 2020-05-22 15:14:53
 tags:
-    - linux
-    - nodejs
-    - npm
+  - linux
+  - nodejs
+  - npm
+cover: /upload/homePage/20200522152500.jpg
+abbrlink: b75009fc
+categories: uncategorized
+date: 2020-05-22 15:14:53
 ---
-![homePage](/upload/homePage/20200522152500.jpg)
-<!--more-->
-
 ## 下载node.js安装包并解压
 ```
 wget https://nodejs.org/dist/v12.16.0/node-v12.16.0-linux-x64.tar

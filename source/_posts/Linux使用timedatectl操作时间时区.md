@@ -1,10 +1,11 @@
 ---
 title: Linux使用timedatectl操作时间时区
-date: 2018-08-07 18:03:33
 tags:
-    - linux
-    - timedatectl
-categories: 运维日志
+  - linux
+  - timedatectl
+categories: uncategorized
+abbrlink: f377eb4a
+date: 2018-08-07 18:03:33
 ---
 
 ## 情景

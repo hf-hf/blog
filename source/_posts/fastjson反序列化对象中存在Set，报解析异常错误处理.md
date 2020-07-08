@@ -1,9 +1,11 @@
 ---
 title: fastjson反序列化对象中存在Set，报解析异常错误处理
-date: 2018-04-16 11:10:25
 tags:
-    - fastjson
-    - Set序列化
+  - fastjson
+  - Set序列化
+abbrlink: 64014cc8
+categories: uncategorized
+date: 2018-04-16 11:10:25
 ---
 
 ## 情景：

@@ -1,15 +1,12 @@
 ---
 title: hexo更换电脑后重新安装
-date: 2018-11-05 14:12:31
 tags:
-    - hexo
-categories: 
-	- hexo
+  - hexo
+categories: uncategorized
+cover: /upload/homePage/20181105161102.jpg
+abbrlink: a894e630
+date: 2018-11-05 14:12:31
 ---
-
-![homePage](/upload/homePage/20181105161102.jpg)
-<!--more-->
-
 ## 情景
 之前已经将hexo博客的源码提交到了Git部署仓库的hexo分支，这次更换电脑后需要重新安装、编译，现将每一步都记录一下。
 

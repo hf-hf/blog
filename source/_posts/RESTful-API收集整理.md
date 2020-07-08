@@ -1,11 +1,12 @@
 ---
 title: RESTful API收集整理
-date: 2018-09-06 15:48:34
 tags:
-    - RESTful
+  - RESTful
+cover: /upload/homePage/20180906170330.jpg
+abbrlink: d1792dcc
+categories: uncategorized
+date: 2018-09-06 15:48:34
 ---
-![homePage](/upload/homePage/20180906170330.jpg)
-<!--more-->
 # RESTful API 
 # 路径定义
 ## 版本号

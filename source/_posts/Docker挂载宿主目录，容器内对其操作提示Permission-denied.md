@@ -1,12 +1,12 @@
 ---
 title: Docker挂载宿主目录，容器内对其操作提示Permission denied
-date: 2019-05-14 16:09:14
 tags:
-    - docker
+  - docker
+cover: /upload/homePage/20190514163007.jpg
+abbrlink: 8b05b30d
+categories: uncategorized
+date: 2019-05-14 16:09:14
 ---
-![homePage](/upload/homePage/20190514163007.jpg)
-<!--more-->
-
 ## 情景
 Docker挂载宿主主机目录，docker run后容器启动正常，但是挂载目录中不存在容器内生成的文件，``journalctl -ex``查看容器内输出，发现报错提示'Permission denied'。
 

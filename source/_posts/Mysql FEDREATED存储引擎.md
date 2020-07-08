@@ -1,8 +1,10 @@
 ---
 title: Mysql FEDREATED存储引擎
-date: 2018-08-31 15:40:50
 tags:
-    - Mysql
+  - Mysql
+abbrlink: 9c6dc1e8
+categories: uncategorized
+date: 2018-08-31 15:40:50
 ---
 
 ## 概念

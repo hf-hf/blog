@@ -1,14 +1,14 @@
 ---
 title: Java获取ClassLoader的方式
-date: 2019-04-12 16:25:33
 tags:
-    - Java
+  - Java
 password:
-    - hf123456
+  - hf123456
+cover: /upload/homePage/20190412091707.jpg
+abbrlink: 2038a319
+categories: uncategorized
+date: 2019-04-12 16:25:33
 ---
-![homePage](/upload/homePage/20190412091707.jpg)
-<!--more-->
-
 ClassLoader.getSystemClassLoader();
 Thread.currentThread().getContextClassLoader();
 

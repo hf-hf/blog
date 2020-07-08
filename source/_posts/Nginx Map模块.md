@@ -1,8 +1,10 @@
 ---
 title: Nginx Map模块
-date: 2018-08-29 10:00:25
 tags:
-    - nginx
+  - nginx
+abbrlink: f536bccd
+categories: uncategorized
+date: 2018-08-29 10:00:25
 ---
 
 ## 情景

@@ -1,13 +1,13 @@
 ---
 title: 'npm install gyp ERR! stack Error: EACCES: permission denied'
-date: 2020-05-22 15:41:04
 tags:
-    - nodejs
-    - npm
+  - nodejs
+  - npm
+cover: /upload/homePage/20200522160200.jpg
+abbrlink: ca6b9310
+categories: uncategorized
+date: 2020-05-22 15:41:04
 ---
-![homePage](/upload/homePage/20200522160200.jpg)
-<!--more-->
-
 ## 情景
 之前部署Nuxt.js项目，新添加依赖后在服务器编译报错：
 ```

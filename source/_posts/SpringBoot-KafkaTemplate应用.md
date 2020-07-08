@@ -1,13 +1,13 @@
 ---
 title: SpringBoot KafkaTemplate应用
-date: 2019-01-04 15:32:57
 tags:
-    - Spring Boot
-    - kafka
+  - Spring Boot
+  - kafka
+cover: /upload/homePage/20190104095507.jpg
+abbrlink: d70bf043
+categories: uncategorized
+date: 2019-01-04 15:32:57
 ---
-![homePage](/upload/homePage/20190104095507.jpg)
-<!--more-->
-
 ## 简介
 Apache Kafka是一种高吞吐量的分布式发布订阅消息系统，有如下特性：
 - 通过O(1)的磁盘数据结构提供消息的持久化，这种结构对于即使数以TB的消息存储也能够保持长时间的稳定性能。

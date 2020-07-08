@@ -1,12 +1,12 @@
 ---
 title: Vue 2.0 Emitted value instead of an instance of Error
-date: 2018-11-05 13:33:34
 tags:
-    - vue
+  - vue
+cover: /upload/homePage/20181105161101.jpg
+abbrlink: 494a7356
+categories: uncategorized
+date: 2018-11-05 13:33:34
 ---
-![homePage](/upload/homePage/20181105161101.jpg)
-<!--more-->
-
 ## 情景
 新项目中使用Vue2.0在如下代码中，提示warning：Emitted value instead of an instance of Error。
 

@@ -1,13 +1,12 @@
 ---
 title: 微信分享“咱们从头到尾说一次 Java 垃圾回收”
-date: 2019-07-26 09:46:39
 tags:
-    - jvm
-categories: 微信分享
+  - jvm
+categories: uncategorized
+cover: /upload/homePage/20190726104410.jpg
+abbrlink: 9b4a5eec
+date: 2019-07-26 09:46:39
 ---
-![homePage](/upload/homePage/20190726104410.jpg)
-<!--more-->
-
 > 名词解释：
 > GC：垃圾收集器
 > Minor GC：新生代GC，指发生在新生代的垃圾收集动作，所有的Minor GC都会触发全世界的暂停（stop-the-world），停止应用程序的线程，不过这个过程非常短暂。
