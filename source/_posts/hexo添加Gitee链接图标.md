@@ -5,7 +5,6 @@ tags:
   - gitee
 categories: uncategorized
 cover: /upload/homePage/20190325103507.jpg
-sticky: 1
 abbrlink: 59ee5686
 date: 2019-03-25 10:30:54
 ---
