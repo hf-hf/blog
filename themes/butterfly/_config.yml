@@ -9,6 +9,7 @@
 menu:
   首页: / || fas fa-home
   时间轴: /archives/ || fas fa-archive
+  番剧: /bangumis/ || fas fa-tv
   标签: /tags/ || fas fa-tags
   #分类: /categories/ || fas fa-folder-open
   # 清单||fas fa-list:
@@ -291,7 +292,7 @@ valine:
   guest_info: nick,mail,link #valine comment header info (nick/mail/link)
   recordIP: false # Record reviewer IP
   serverURLs: # This configuration is suitable for domestic custom domain name users, overseas version will be automatically detected (no need to manually fill in)
-  bg: # valine background
+  bg: https://cdn.jsdelivr.net/gh/HCLonely/hclonely.github.io@1.4.7/img/comment_bg.png # valine background
   emojiCDN: # emoji CDN
   enableQQ: false # enable the Nickname box to automatically get QQ Nickname and QQ Avatar
   requiredFields: nick,mail # required fields (nick/mail)

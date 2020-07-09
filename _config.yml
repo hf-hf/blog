@@ -145,6 +145,7 @@ baidu_url_submit:
     token: cQOgd9p3yXltTzQn
     path: baidu_urls.txt
 
+# rss
 feed:
   type: atom
   path: atom.xml
@@ -157,3 +158,16 @@ feed:
   icon: icon.png
   autodiscovery: true
   template:
+
+# bilibili番剧
+bangumi:
+  enable: true
+  path:
+  vmid: 1853955
+  title: '追番列表'
+  quote: '江可载舟,亦可赛艇！'
+  show: 1
+  loading:
+  metaColor:
+  color:
+  webp:
