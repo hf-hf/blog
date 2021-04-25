@@ -2,11 +2,10 @@
 title: DBA题目索引设计问题调研
 tags:
   - Mysql
+categories: uncategorized
 cover: /upload/homePage/20210425115900.jpg
 abbrlink: a4fbff2c
-categories: uncategorized
 date: 2021-04-23 17:08:46
-tags:
 ---
 ## 题目
 本题目来源自网络，引用自[cnblogs 05 | 深入浅出索引（下）](https://www.cnblogs.com/gaosf/p/11142108.html)，最初出处因搜索结果过多目前无法确定。
@@ -208,5 +207,7 @@ id  select_type  table  type  possible_keys   key  key_len  ref    rows  filtere
 我这边推测其产生的原因在于聚簇索引下的表数据，本身就是以联合主键a，b排序，此时要返回order by b的数据，直接在其基础上以排序算法来进行文件排序，效率可能比匹配cb要更优，或者这个干脆就是Mysql当前版本下的一个bug，如果有知道详细原因的朋友，不吝赐教。
 
 ## 参考资料
+[05 | 深入浅出索引（下）](https://www.cnblogs.com/gaosf/p/11142108.html)
+[06 | 全局锁和表锁 ：给表加个字段怎么有这么多阻碍？](https://www.cnblogs.com/gaosf/p/11142112.html)
 [mysql 联合主键_搞懂MySQL中的SQL优化，就靠这篇文章了](https://blog.csdn.net/weixin_39918682/article/details/111278002)
 [多个索引时，mysql索引的命中规则](https://blog.csdn.net/qq_26975307/article/details/91367232)
