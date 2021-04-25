@@ -1,5 +1,7 @@
 ---
 title: DBA题目索引设计问题调研
+tags:
+  - Mysql
 cover: /upload/homePage/20210425115900.jpg
 abbrlink: a4fbff2c
 categories: uncategorized
