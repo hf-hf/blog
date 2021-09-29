@@ -207,7 +207,7 @@ public int accept(Method method) {
 }
 ```
 
-详细代码调用嵌套比较深，这里贴出调用的顺序。
+详细代码调用嵌套比较深，这里贴出调用的顺序（文本比较长，页面缩进显示不太好，建议copy出去浏览）。
 ```
 org.springframework.aop.framework.CglibAopProxy.ProxyCallbackFilter#accept
   org.springframework.aop.framework.DefaultAdvisorChainFactory#getInterceptorsAndDynamicInterceptionAdvice
