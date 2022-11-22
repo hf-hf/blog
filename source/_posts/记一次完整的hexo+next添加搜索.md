@@ -56,9 +56,9 @@ npm install --save hexo-algolia
 # Algolia Search
 algolia:
   applicationID: 'Application ID'
-  apiKey: 'apikey'
-  adminApiKey: 'adminApiKey'
-  indexName: 'yourIndeName'
+  apiKey: 'Search-Only API Key'
+  adminApiKey: 'Admin API Key'
+  indexName: 'yourIndexName'
   chunkSize: 5000
 ```
 
